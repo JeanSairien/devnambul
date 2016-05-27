@@ -1,0 +1,51 @@
+ body {
+
+ 	background-color: #84815B;
+
+      }
+
+
+.jumbotron{
+
+		height:450px;
+		width:100%;
+		margin-bottom: 100px;
+
+}
+
+
+
+
+div.jumbotron h1 {
+	font-family: "VT323";
+	font-size: 121px;
+	color: red;
+	box-shadow: -2px 1px 1px 11px;
+	border-radius: 100px;
+	padding: 1px 1px 1px 150px;
+	background-color: white;
+}
+
+
+
+
+div.container-fluide{
+	display: inline-block;
+	height:120px;
+	width:100%;
+
+}
+
+
+ul.dropdown-toggle{
+
+	margin-left:150px;
+
+}
+
+img.img-responsive{
+
+	margin-bottom: 60px;
+
+
+}
